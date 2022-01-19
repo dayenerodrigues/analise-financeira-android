@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Android</string>
+
+    <string name="form_titulo">Pedido de Empréstimo</string>
+
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="idade">Idade</string>
+    <string name="renda_mensal">Renda Mensal</string>
+    <string name="valor_requerido">Valor Requerido</string>
+    <string name="valor_juros">Valor Juros</string>
+    <string name="situacao">Situação</string>
+
+    <string name="form_botao">Submeter Análise de Crédito</string>
+</resources>
